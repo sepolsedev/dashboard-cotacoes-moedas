@@ -86,6 +86,70 @@ Os gráficos mostram a evolução da moeda selecionada e a comparação das trê
 
 Datas sem registros não são preenchidas. Não atribuímos valor zero a dias ausentes. O registro mais recente pode estar em formação. Os valores não incluem impostos, tarifas ou spread cobrado por uma instituição ao cliente e não constituem uma oferta de câmbio. As séries disponíveis não devem ser descritas como dados ao vivo ou fechamento oficial do Banco Central.
 
+## Capturas de tela
+
+As imagens abaixo mostram o dashboard em execução, com a cotação de compra selecionada. Os valores e períodos são os exibidos nas capturas e podem mudar após novas coletas ou alterações nos filtros.
+
+### Dólar
+
+**Indicadores e evolução da cotação**
+
+Cotação mais recente no período, maior valor, menor valor, média e mediana, acompanhados do gráfico da moeda.
+
+![Dólar: indicadores e evolução da cotação](docs/imagens/dolar-indicadores.png)
+
+**Comparação das moedas**
+
+Gráfico comparativo com os filtros dessa captura. As séries visíveis dependem da seleção na legenda.
+
+![Dólar: comparação das moedas](docs/imagens/dolar-comparacao.png)
+
+**Dados usados na análise**
+
+Tabela dos registros da moeda selecionada e botão para baixar os dados em CSV.
+
+![Dólar: dados usados na análise](docs/imagens/dolar-tabela.png)
+
+### Euro
+
+**Indicadores e evolução da cotação**
+
+Cotação mais recente no período, maior valor, menor valor, média e mediana, acompanhados do gráfico da moeda.
+
+![Euro: indicadores e evolução da cotação](docs/imagens/euro-indicadores.png)
+
+**Comparação das moedas**
+
+Gráfico comparativo com os filtros dessa captura. As séries visíveis dependem da seleção na legenda.
+
+![Euro: comparação das moedas](docs/imagens/euro-comparacao.png)
+
+**Dados usados na análise**
+
+Tabela dos registros da moeda selecionada e botão para baixar os dados em CSV.
+
+![Euro: dados usados na análise](docs/imagens/euro-tabela.png)
+
+### Libra
+
+**Indicadores e evolução da cotação**
+
+Cotação mais recente no período, maior valor, menor valor, média e mediana, acompanhados do gráfico da moeda.
+
+![Libra: indicadores e evolução da cotação](docs/imagens/libra-indicadores.png)
+
+**Comparação das moedas**
+
+Gráfico comparativo com os filtros dessa captura. As séries visíveis dependem da seleção na legenda.
+
+![Libra: comparação das moedas](docs/imagens/libra-comparacao.png)
+
+**Dados usados na análise**
+
+Tabela dos registros da moeda selecionada e botão para baixar os dados em CSV.
+
+![Libra: dados usados na análise](docs/imagens/libra-tabela.png)
+
 ## Publicar no GitHub
 
 Crie na sua conta um repositório vazio chamado `dashboard-cotacoes-moedas`, sem marcar criação de README, licença ou `.gitignore`, pois esta pasta já tem os arquivos necessários. Abra o Git Bash dentro da pasta do projeto:
